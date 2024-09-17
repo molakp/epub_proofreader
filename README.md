@@ -43,6 +43,4 @@ The program generates a new file named `corrected_filename.html` in the same dir
   
 ## Disclaimer  
   
-This program is designed for educational purposes only. It's crucial to meticulously review the corrected content before finalizing it.  
-  
-I hope this improved readme provides a clear understanding of the program's functionalities!  
+This program is designed for educational purposes only. It's crucial to meticulously review the corrected content before finalizing it.
